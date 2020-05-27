@@ -7,7 +7,7 @@ def Total_cholesterol_analysis(total):
     elif 200 <= total < 240:
         return "Borderline High"
     else:
-        return "High"
+        return "Highh"
 
 
 def get_total(LDL, HDL):
